@@ -3,3 +3,16 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+h1{
+  color:orange;
+  padding-top:10px;
+}
+
+h2{
+  padding:10px 0;
+}
+
+p{
+  padding-bottom:10px;
+}
